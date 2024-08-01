@@ -1,1 +1,1 @@
-Eae, meu nome é Lucas Gabriel, Estou estudando usando o Alura e estou me desenvolvendo na linguagem JavaScript e irei utilizar esse espaço para minha organização e compartilhamento dos meus possíveis projetos que dessnvolverei.
+Eae, meu nome é **Lucas Gabriel**, Estou estudando usando o Alura e estou me desenvolvendo na linguagem JavaScript e irei utilizar esse espaço para minha organização e compartilhamento dos meus possíveis projetos que dessnvolverei.
